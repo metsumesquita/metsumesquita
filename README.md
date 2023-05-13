@@ -3,7 +3,7 @@
 
 - 🔭 estou fazendo minha iniciaçao ciêntifica,este é o nome do projeto:Revisão sistemática em séries temporais multivariadas com dados faltantes em amplas áreas.
 - 😄 Pronouns: ela/dela
-- :crystal_ball: tenho interesse na area de ciência dos dados e desenvolvimento web
+- :crystal_ball: tenho interesse na area de ciência dos dados e gosto de me manter no back-end
 
 
 
