@@ -1,13 +1,16 @@
 # 👋 Ola!  
-## Meu nome é Thais Mesquita e meu apelido é thatha
 
-- 🔭 estou fazendo minha iniciaçao ciêntifica,este é o nome do projeto:Revisão sistemática em séries temporais multivariadas com dados faltantes em amplas áreas.
-- 😄 Pronouns: ela/dela
-- :crystal_ball: tenho interesse na area de ciência dos dados e gosto de me manter no back-end
+- :student: do curso de ciência da computação na Universidade Católica de Pernambuco - Unicap,estou no ultimo período do curso
+- 🔭 estou fazendo minha iniciaçao ciêntifica,este é o nome do projeto:Revisão sistemática em séries temporais multivariadas com dados faltantes em amplas áreas e o meu  TCC vai estar totalmente ligado a comparação dos metodos recorrentes que aparecerem os artigos selecionados para leitura e disto irei avaliar a qualidade do desempenho em determinada base de dados 
+- :sparkling_heart: tenho interesse na área de ciência de dados
+- moro no  :brazil: e gosto muito dos animais marinhos :shark: :blowfish:
+- estou começando os estudos sobre Spring boot e aprendizado de máquina
+  
 
 
 
-##Programming Laguange
+
+##Linguagem de programação que tenho experiência :woman_technologist:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 
