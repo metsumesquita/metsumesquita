@@ -1,6 +1,6 @@
 # 👋 Olá! este é o meu perfil do GitHub
 
-##  :dart:	informações sobre mim
+# :dart:	informações sobre mim
 - :student: do curso de ciência da computação na Universidade Católica de Pernambuco - Unicap,estou no ultimo período do curso
 - :mag_right: estou fazendo minha iniciaçao ciêntifica,este é o nome do projeto:Revisão sistemática em séries temporais multivariadas com dados faltantes em amplas áreas e o meu  TCC vai estar totalmente ligado a comparação dos metodos recorrentes que aparecerem os artigos selecionados para leitura e disto irei avaliar a qualidade do desempenho em determinada base de dados 
 - :sparkling_heart: tenho interesse na área de ciência de dados
