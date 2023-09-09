@@ -1,8 +1,8 @@
 # 👋 Olá! este é o meu perfil do GitHub
 
 # :dart:	informações sobre mim
-- :student: do curso de ciência da computação na Universidade Católica de Pernambuco - Unicap,estou no ultimo período do curso
-- :mag_right: estou fazendo minha iniciaçao ciêntifica,este é o nome do projeto:Revisão sistemática em séries temporais multivariadas com dados faltantes em amplas áreas e o meu  TCC vai estar totalmente ligado a comparação dos metodos recorrentes que aparecerem os artigos selecionados para leitura e disto irei avaliar a qualidade do desempenho em determinada base de dados 
+- :student: I am a computer science student at Catholic University of Pernambuco - Unicap,estou no ultimo período do curso
+- :mag_right: I'm doing my scientific initiation, this is the name of the project: Systematic review in multivariate time series with missing data in broad areas and my course conclusion article is also about the methods of imputing missing data in time series
 - :sparkling_heart: tenho interesse na área de ciência de dados
 - :beginner:estou começando os estudos sobre Spring boot e aprendizado de máquina
 - :left_speech_bubble: interesse nas seguintes  áreas  back end, área de dados e segurança
