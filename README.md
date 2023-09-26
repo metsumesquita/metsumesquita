@@ -3,14 +3,14 @@
 # :dart:	about me
 - :student: I am a computer science student at Catholic University of Pernambuco - Unicap,in the end of my graduation .
 - :mag_right: I'm doing my scientific initiation, this is the name of the project: Systematic review in multivariate time series with missing data in broad areas and my course conclusion article is also about the methods of imputing missing data in time series
-- :sparkling_heart: i love any thing about data and information,i really enjoy in my free time to chocheting 
+- :sparkling_heart: i love any thing about data 📊 and information,i really enjoy in my free time to chocheting 
 - :beginner: i am a begginer in spring boot, and i strated to learn javascript,html and css
 - :left_speech_bubble: 
 - living in :brazil: and loving ocean life  :shark: :blowfish:
   
 
 
-##:woman_technologist:  :computer:
+##:woman_technologist: 📖  my strength :computer:
 
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"  /><img 
