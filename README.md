@@ -5,7 +5,6 @@
 - :mag_right: I'm doing my scientific initiation, this is the name of the project: Systematic review in multivariate time series with missing data in broad areas and my course conclusion article is also about the methods of imputing missing data in time series
 - :sparkling_heart: i love any thing about data 📊 and information,i really enjoy in my free time to chocheting 
 - :beginner: i am a begginer in spring boot, and i strated to learn javascript,html and css
-- :left_speech_bubble: 
 - living in :brazil: and loving ocean life  :shark: :blowfish:
   
 
