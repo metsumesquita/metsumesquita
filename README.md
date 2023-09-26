@@ -1,27 +1,23 @@
-# 👋 Olá! este é o meu perfil do GitHub
+# 👋 Welcome to my github profile 
 
-# :dart:	informações sobre mim
-- :student: I am a computer science student at Catholic University of Pernambuco - Unicap,estou no ultimo período do curso
+# :dart:	about me
+- :student: I am a computer science student at Catholic University of Pernambuco - Unicap,in the end of my graduation .
 - :mag_right: I'm doing my scientific initiation, this is the name of the project: Systematic review in multivariate time series with missing data in broad areas and my course conclusion article is also about the methods of imputing missing data in time series
-- :sparkling_heart: tenho interesse na área de ciência de dados
-- :beginner:estou começando os estudos sobre Spring boot e aprendizado de máquina
-- :left_speech_bubble: interesse nas seguintes  áreas  back end, área de dados e segurança
-- moro no :brazil: e gosto muito dos animais marinhos :shark: :blowfish:
+- :sparkling_heart: i love any thing about data and information,i really enjoy in my free time to chocheting 
+- :beginner: i am a begginer in spring boot, and i strated to learn javascript,html and css
+- :left_speech_bubble: 
+- living in :brazil: and loving ocean life  :shark: :blowfish:
   
 
 
-
-
-##:woman_technologist: Tecnologia que tenho experiência :computer:
+##:woman_technologist:  :computer:
 
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"  /><img 
 src="https://camo.githubusercontent.com/c3fc2502421ea45b46698a4db62f25d0ef49c765f197b1a8fd00eaed5548b1db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736c61636b2f736c61636b2d6f726967696e616c2e737667" width="30" height="30"/><img 
 src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="30" height="30"/> 
 
-  
-  
-## redes e outros lugares que tambem participo
+## fing me on differents social media
   
   <a href="https://instagram.com/mightnight.py?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:contatoyuukosan98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
