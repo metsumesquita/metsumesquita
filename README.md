@@ -1,11 +1,15 @@
-# 👋 Welcome to my github profile 
+# 👋 Welcome to My GitHub Profile
 
-# :dart:	about me
-- :student: I am a computer science student at Catholic University of Pernambuco - Unicap,in the end of my graduation .
-- :mag_right: I'm doing my scientific initiation, this is the name of the project: Systematic review in multivariate time series with missing data in broad areas and my course conclusion article is also about the methods of imputing missing data in time series
-- :sparkling_heart: i love any thing about data 📊 and information,i really enjoy in my free time to chocheting 
-- :beginner: i am a begginer in spring boot, and i strated to learn javascript,html and css
-- living in :brazil: and loving ocean life  :shark: :blowfish:
+## 🎯 About Me
+
+- 🎓 **Education**: I graduated with a Bachelor's degree in Computer Science from the Catholic University of Pernambuco (UNICAP ICAM-TECH) in 2024. During my studies, I completed a one-year scientific initiation project (2022-2023).
+
+- 📄 **Project Title**: *Systematic Review on Missing Data in Multivariate Time Series in the Context of Industry 4.0: ACM Search Engine*. This project was part of a larger research initiative titled *Development of a Methodology Based on Intelligent Computational Models to Estimate Missing Data in Multivariate Time Series*.
+
+- 🎓 **Current Position**: I'm currently pursuing a Master's degree at the University of Pernambuco in The Graduate Program in Computer Engineering (PPGEC).
+
+- 📚 **Publication**: I have submitted a paper titled *A Comparative Analysis of Deep Learning-Based Methods for Multivariate Time Series Imputation with Varying Missing Rates* for the ETCM 2024 conference.
+
   
 
 
